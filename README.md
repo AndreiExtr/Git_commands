@@ -1,4 +1,4 @@
-# Git_commands
+# Merge_main_master_branches
 Шпаргалка по консольным командам Git
 <!-- 
 *   [Общее](https://github.com/cyberspacedk/Git-commands/tree/master/git#Общее)
