@@ -34,4 +34,4 @@ npm run deploy
 
 Создается папка dist при сборке Vue.js проекта. Эта папка содержит скомпилированные файлы приложения, которые будут загружены на GitHub Pages. Прежде чем запушить проект на удаленный репозиторий, надо в файле <code>.gitignore</code> удалить <code>/dist</code>.
 
-<p style="color: green;">Этот текст будет зелёным.</p>
+<span style="color:red"> *some emphasized markdown text*</span>
