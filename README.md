@@ -25,7 +25,7 @@ module.exports = {
 # 4. Компиляция и деплой
 - Скомпилируйте ваше приложение:
 ```
-  npm run build
+npm run build
 ```
 - Задеплойте приложение на GitHub Pages:
 ```
